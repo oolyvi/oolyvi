@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oolyvi
-- 👀 I’m interested in ...programming
+- 👀 I’m interested in ...nothing
 - 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...real life difficulties
+- 💞️ I’m looking to collaborate on ...somewhere in the world
 - 📫 How to reach me ...by github and instagram
 
 <!---
