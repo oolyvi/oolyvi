@@ -9,7 +9,7 @@ I'm a Native Android Developer 💻!
 ### 🤝 Connect with me:
 
 
-<a href="https://www.linkedin.com/in/ulvi-rahimli-001083238/" target="blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/ulvi-rahimli-001083238/" target="_blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <a href="https://www.instagram.com/oolyvi/" target="_blank"><img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 
