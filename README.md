@@ -1,10 +1,6 @@
 <h3 align="center">
-Hi there, I'm <a href="https://www.linkedin.com/in/ulvi-rahimli-001083238/" target="_blank" rel="noreferrer">Ulvi</a> 👋
+Hi there, I'm Ulvi</a> 👋
 </h3>
-
-<p align="center">
-  <a href="https://github.com/oolyvi" target="_blank" rel="noreferrer"><img src="https://github.com/oolyvi/readme/assets/102907551/912b5da8-5620-42f5-b762-f8dcea1eb4b4" alt="my banner"></a>
-</p>
 
 <h2 align="center">
 I'm a Native Android Developer 💻!
