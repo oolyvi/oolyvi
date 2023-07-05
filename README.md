@@ -25,5 +25,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oolyvi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=oolyvi](https://github-readme-stats.vercel.app/api/top-langs/?username=oolyvi&layout=donut)https://github-readme-stats.vercel.app/api/top-langs/?username=oolyvi&layout=donut" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oolyvi&layout=donut" />
 </a>
