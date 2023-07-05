@@ -17,6 +17,8 @@ I'm a Native Android Developer 💻!
 
 <a href="https://t.me/oolyvi" target="_blank"><img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 
+<br>
+
 ## 🔭 I'm currently working on
 
 - Some projects
