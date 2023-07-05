@@ -14,7 +14,7 @@ I'm a Native Android Developer 💻!
 <a href="https://www.instagram.com/oolyvi/"><img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 ![Medium]()
 <a href="https://medium.com/@oolyvi"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-![Telegram]
+[Telegram]
 <a href="https://t.me/oolyvi"><img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 
 
