@@ -22,8 +22,4 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oolyvi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oolyvi&layout=donut" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oolyvi&layout=donut&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
