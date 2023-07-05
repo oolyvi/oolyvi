@@ -13,7 +13,7 @@ I'm a Native Android Developer 💻!
 ### 🤝 Connect with me:
 
 ![LinkedIn]
-<a href="https://www.linkedin.com/in/ulvi-rahimli-001083238/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ulvi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/ulvi-rahimli-001083238/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ulvi | LinkedIn"/></a>
 <a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 <a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
