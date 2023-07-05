@@ -1,6 +1,6 @@
 Hi there, I am [Ulvi](https://www.instagram.com/oolyvi/)
-![millionmovies](https://github.com/oolyvi/readme/assets/102907551/dfe0d44f-a0d1-495f-b668-528a19b83e82)
 
+![giphy](https://github.com/oolyvi/readme/assets/102907551/9f21efd9-a9e3-40cd-a4b8-545ba540f6ca)
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
