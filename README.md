@@ -1,8 +1,6 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/oolyvi/readme/assets/102907551/912b5da8-5620-42f5-b762-f8dcea1eb4b4" alt="my banner"></a>
+  <a href="https://github.com/oolyvi" target="_blank" rel="noreferrer"><img src="https://github.com/oolyvi/readme/assets/102907551/912b5da8-5620-42f5-b762-f8dcea1eb4b4" alt="my banner"></a>
 </p>
-
-![giphy (1)]()
 
 
 <h3 align="center">
