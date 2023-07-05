@@ -1,5 +1,5 @@
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Ulvi</a> 👋
+Hi there, I'm <a href="https://www.linkedin.com/in/ulvi-rahimli-001083238/" target="_blank" rel="noreferrer">Ulvi</a> 👋
 </h3>
 
 <p align="center">
@@ -14,8 +14,15 @@ I'm a Native Android Developer 💻!
 
 ![LinkedIn]
 <a href="https://www.linkedin.com/in/ulvi-rahimli-001083238/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ulvi | LinkedIn"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+![Instagram]
+<a href="https://www.instagram.com/oolyvi/"><img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Ulvi | Instagram"/></a>
+![Medium]()
+<a href="https://medium.com/@oolyvi"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Ulvi | Medium"/></a>
+![Telegram]
+<a href="https://t.me/oolyvi"><img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Ulvi | Telegram"/></a>
+
+
+
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
