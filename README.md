@@ -69,8 +69,6 @@ I love the entire process of developing creative websites. I love the challenge 
 - [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
 - [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
 
-## 📈 GitHub Stats 
+## 📈 Top Languages 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oolyvi&layout=compact&layout=donut&show_icons=true&theme=chartreuse-dark&bg_color=00000000)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oolyvi&layout=donut&show_icons=true&theme=chartreuse-dark&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
