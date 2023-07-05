@@ -19,6 +19,12 @@ I'm a Native Android Developer 💻!
 
 <br>
 
+## 📈 Top Languages 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oolyvi&layout=donut&show_icons=true&theme=chartreuse-dark&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 ## 🔭 I'm currently working on
 
 - Some projects
@@ -29,7 +35,3 @@ I'm a Native Android Developer 💻!
 - Kotlin
 - Java
 - Firebase 
-
-## 📈 Top Languages 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oolyvi&layout=donut&show_icons=true&theme=chartreuse-dark&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
