@@ -25,10 +25,6 @@ I'm a Native Android Developer 💻!
 
 <br>
 
-## 🔭 I'm currently working on
-
-- Some projects
-
 ## 🌱 I'm currently learning
 
 - Native Android Development
