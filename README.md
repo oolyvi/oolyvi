@@ -28,6 +28,5 @@ I'm a Native Android Developer 💻!
 ## 🌱 I'm currently learning
 
 - Native Android Development
-- Kotlin
-- Java
-- Firebase 
+- Kotlin & Java
+- Firebase
