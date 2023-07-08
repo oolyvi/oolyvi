@@ -20,15 +20,11 @@ I'm a Native Android Developer 💻!
 <a href="https://t.me/oolyvi" target="_blank"><img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 
 <br>
+<br>
+<br>
 
 ## 📈 Top Languages 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oolyvi&layout=donut&show_icons=true&theme=chartreuse-dark&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-
-## 🌱 I'm currently learning
-
-- Native Android Development
-- Kotlin & Java
-- Firebase
