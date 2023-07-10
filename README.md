@@ -3,7 +3,7 @@ Hi there, I'm Ulvi</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Native Android Developer 💻!
+I'm a Native Android Developer 💻
 </h2> 
 
 ### 🤝 Connect with me:
