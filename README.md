@@ -5,13 +5,13 @@ Android Developer
 -----------------
 
 ### Skills
-#Android <br>
-#Kotlin <br>
-#Java <br>
-#Firebase <br>
-#Material Design <br>
-#Git <br>
 -----------------
+###Android <br>
+###Kotlin <br>
+###Java <br>
+###Firebase <br>
+###Material Design <br>
+###Git <br>
 
 
 ### Socials
