@@ -4,8 +4,14 @@ Hey there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785
 Android Developer
 -----------------
 
-###Skills
+### Skills
+* Android
 * Kotlin
+* Java
+* Firebase
+* Git
+* Material Design
+* Jetpack libraries
 
 ### Badges
 
