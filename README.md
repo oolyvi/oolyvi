@@ -6,12 +6,10 @@ Android Developer
 
 ### Skills
 * Android
-* Kotlin
-* Java
+* Kotlin & Java
 * Firebase
 * Git
 * Material Design
-* Jetpack libraries
 
 ### Badges
 
