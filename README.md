@@ -2,7 +2,7 @@ Hey there, I am using GitHub ![](https://user-images.githubusercontent.com/18350
 ============================================================================================================================
 
 The Android Developer who wants to learn and practice every day without any desire. My codes are just like Dostoyevski's novels, if you dive and read once, you will never get out of it. But if you get out of once, you will want to dive again for a mix of sadness and happiness of my codes. Let's code ourselves and life for much happiness...
------------------
+
 
 ### Skills
 * Android
