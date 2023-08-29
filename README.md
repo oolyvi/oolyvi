@@ -1,7 +1,7 @@
 Hey there, I am using GitHub ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ============================================================================================================================
 
-The Android Developer who wants to learn and practice every day without any desire. My codes are just like Dostoyevsky's novels, if you dive and read once, you will never get out of it. But if you get out of once, you will want to dive again for a mix of sadness and happiness of my codes. Let's code ourselves and life for much happiness...
+The Android developer who's always eager to learn and improve. My Codes is like a captivating novel by Dostoyevsky, once you start, you'll find it hard to stop. It's a mix of both sadness and happiness and once you experience it, you'll want to come back for more. Let's embark on a coding journey that adds happiness to both our apps and our lives.
 
 
 ### Skills
