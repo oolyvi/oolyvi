@@ -1,6 +1,6 @@
 ## **Backend Developer | Java & Spring Boot**
 
-Computer Science graduate focused on building reliable and maintainable backend applications. Interested in microservices architecture, distributed systems, and scalable software design.
+I enjoy building software, exploring new technologies, and turning ideas into code. Currently focused on Java, Spring Boot, backend development, and distributed systems.
 
 ### 🛠️ Tech Stack
 
