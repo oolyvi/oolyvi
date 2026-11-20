@@ -19,13 +19,6 @@ Computer Science graduate focused on building reliable and maintainable backend 
 - **[Satonda](https://github.com/oolyvi/satonda)** – Android note-taking application built with Kotlin.
 - **[Yekun](https://github.com/oolyvi/yekun)** – Anime and manga tracking application integrated with REST APIs.
 
-### 🎯 Currently Focusing On
-
-- Microservices Architecture
-- Distributed Systems
-- Data Structures & Algorithms
-- Scalable System Design
-
 ### 📫 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/oolyvi](https://www.linkedin.com/in/oolyvi)
