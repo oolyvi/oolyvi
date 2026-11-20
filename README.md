@@ -20,5 +20,4 @@ I enjoy building software, exploring new technologies, and turning ideas into co
 ### 📫 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/oolyvi](https://www.linkedin.com/in/oolyvi)
-- **GitHub:** [github.com/oolyvi](https://github.com/oolyvi)
 - **Email:** urahimlidev@gmail.com
