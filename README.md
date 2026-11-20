@@ -1,4 +1,4 @@
-# Hi, I'm oolyvi 👋
+# -oolyvi-
 
 **Backend Developer | Java & Spring Boot**
 
