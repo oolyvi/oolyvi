@@ -16,6 +16,7 @@ I enjoy building software, exploring new technologies, and turning ideas into co
 - **[ATM Banking Backend](https://github.com/oolyvi/atm_backend)** – Banking backend built with Java, Spring Boot, and PostgreSQL.
 - **[Satonda](https://github.com/oolyvi/satonda)** – Android note-taking application built with Kotlin.
 - **[Yekun](https://github.com/oolyvi/yekun)** – Anime and manga tracking application integrated with REST APIs.
+- **[Raytheater](https://github.com/oolyvi/raytheater)** – A lightweight, single-header screen management library for raylib, written in C.
 
 ### 📫 Connect With Me
 
