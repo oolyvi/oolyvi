@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm oolyvi 👋
 
-<!--
-**oolyvi/oolyvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer | Java & Spring Boot**
 
-Here are some ideas to get you started:
+Computer Science graduate focused on building reliable and maintainable backend applications. Interested in microservices architecture, distributed systems, and scalable software design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Languages:** Java, Kotlin, Go, C, C#
+- **Backend:** Spring Boot, Spring Framework, REST APIs, Microservices
+- **Databases:** PostgreSQL, SQL, JPA / Hibernate
+- **Tools:** Git, GitHub, Docker, Maven
+- **Core Concepts:** OOP, Data Structures & Algorithms, Software Design Principles
+
+### 🚀 Projects
+
+- **[Banking Microservices](https://github.com/oolyvi/spring_microservices)** – Microservices-based banking backend built with Java and Spring Boot.
+- **[ATM Banking Backend](https://github.com/oolyvi/atm_backend)** – Banking backend built with Java, Spring Boot, and PostgreSQL.
+- **[Satonda](https://github.com/oolyvi/satonda)** – Android note-taking application built with Kotlin.
+- **[Yekun](https://github.com/oolyvi/yekun)** – Anime and manga tracking application integrated with REST APIs.
+
+### 🎯 Currently Focusing On
+
+- Microservices Architecture
+- Distributed Systems
+- Data Structures & Algorithms
+- Scalable System Design
+
+### 📫 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/oolyvi](https://www.linkedin.com/in/oolyvi)
+- **GitHub:** [github.com/oolyvi](https://github.com/oolyvi)
+- **Email:** urahimlidev@gmail.com
