@@ -1,6 +1,4 @@
-# -oolyvi-
-
-**Backend Developer | Java & Spring Boot**
+## **Backend Developer | Java & Spring Boot**
 
 Computer Science graduate focused on building reliable and maintainable backend applications. Interested in microservices architecture, distributed systems, and scalable software design.
 
