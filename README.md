@@ -1,4 +1,4 @@
-## **Backend Developer | Java & Spring Boot**
+## **Software Developer**
 
 I enjoy building software, exploring new technologies, and turning ideas into code. Currently focused on Java, Spring Boot, backend development, and distributed systems.
 
