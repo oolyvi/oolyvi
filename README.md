@@ -15,6 +15,7 @@ I enjoy building software, exploring new technologies, and turning ideas into co
 - **[Banking Microservices](https://github.com/oolyvi/spring_microservices)** – Microservices-based banking backend built with Java and Spring Boot.
 - **[ATM Banking Backend](https://github.com/oolyvi/atm_backend)** – Banking backend built with Java, Spring Boot, and PostgreSQL.
 - **[tinypdf](https://github.com/oolyvi/tinypdf)** - Self-hosted Go app that compresses PDFs to a target size using Ghostscript and pdfcpu.
+- **[librura](https://github.com/oolyvi/raytheater)** - Book library management backend built with Go, GraphQL, MongoDB, Redis, and RabbitMQ.
 - **[Satonda](https://github.com/oolyvi/satonda)** – Android note-taking application built with Kotlin.
 - **[Yekun](https://github.com/oolyvi/yekun)** – Anime and manga tracking application integrated with REST APIs.
 - **[Raytheater](https://github.com/oolyvi/raytheater)** – A lightweight, single-header screen management library for raylib, written in C.
