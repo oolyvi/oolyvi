@@ -2,7 +2,7 @@
 
 I'm Computer Science graduate and backend developer focused on Java, Go, Spring Boot, and SQL. Experienced in building backend systems, microservices, and Android applications. Passionate about clean code, scalable systems, and continuous learning.
 
-### 🛠️ SKILLS
+### 🛠️ Skills:
 
 - **Languages:** Java, Go, Kotlin, C, C#
 - **Backend & APIs:** Spring Framework, Spring Boot, REST, GraphQL, microservices, event-driven architecture
@@ -12,7 +12,7 @@ I'm Computer Science graduate and backend developer focused on Java, Go, Spring 
 principles
 - **Platforms**: Linux, Windows, macOS
 
-### 🚀 PROJECTS
+### 🚀 Projects:
 
 - **[Banking Microservices](https://github.com/oolyvi/spring_microservices)** –  Java and Spring Boot banking backend using microservices, OpenFeign, and Kafka.
 - **[ATM Banking Backend](https://github.com/oolyvi/atm_backend)** – Banking backend built with Java, Spring Boot, and PostgreSQL.
@@ -22,7 +22,7 @@ principles
 - **[Satonda](https://github.com/oolyvi/satonda)** - Android note-taking application built with Kotlin.
 - **[Raytheater](https://github.com/oolyvi/raytheater)** – Lightweight, single-header screen-management library for raylib, written in C.
 
-### 📫 CONTACT
+### 🤝 Connect with me:
 
 - **LinkedIn:** [linkedin.com/in/oolyvi](https://www.linkedin.com/in/oolyvi)
 - **Email:** urahimlidev@gmail.com
