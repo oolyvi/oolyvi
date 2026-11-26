@@ -1,8 +1,6 @@
-## **BACKEND DEVELOPER**
+### Hi there 👋
 
-Computer Science graduate and backend developer focused on Java, Go, Spring Boot, REST APIs, and SQL. Built backend
-systems using relational and NoSQL databases, messaging technologies, and microservices patterns, alongside two published
-Android applications. Interested in developing reliable, maintainable services and strengthening skills in distributed systems and software design.
+I'm Computer Science graduate and backend developer focused on Java, Go, Spring Boot, and SQL. Experienced in building backend systems, microservices, and Android applications. Passionate about clean code, scalable systems, and continuous learning.
 
 ### 🛠️ SKILLS
 
